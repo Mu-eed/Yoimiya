@@ -1,0 +1,14 @@
+body {
+    background-image: url(./assets/InShot_20221024_094037860.gif);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.img-fluid {
+    max-height: 50px ;
+}
+
+.profile-img {
+    border-radius: 50%;
+}
